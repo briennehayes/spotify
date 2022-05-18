@@ -112,3 +112,5 @@ dist
 *.Rproj
 *.Rproj.user
 *.Rhistory
+
+spotify_data/
